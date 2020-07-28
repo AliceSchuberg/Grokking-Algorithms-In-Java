@@ -1,4 +1,4 @@
-# -Java-
+# Grokking Algorithms (in Java): An illustrated guide for programmers and other curious people
 Java Project in progress for the book 《Grokking Algorithms: An illustrated guide for programmers and other curious people》
 
 The book was written based on Python, which somewhat hindered my understanding of how it worked
